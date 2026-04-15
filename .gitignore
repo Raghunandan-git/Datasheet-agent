@@ -1,0 +1,26 @@
+# Logs
+logs
+*.log
+
+# Node
+node_modules/
+dist/
+frontend/dist/
+
+# Python
+venv/
+__pycache__/
+*.pyc
+*.egg-info/
+
+# Project specific
+backend/chroma_db/
+backend/uploaded_pdfs/
+.env
+
+# Editor
+.vscode/
+.idea/
+
+# OS
+.DS_Store
