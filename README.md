@@ -119,11 +119,16 @@ Color-coded flags:
 
 ---
 
-## 📸 Screens (Optional)
+## 📸 Screens
 
-(Add your screenshots here similar to PulseLink)
+<img width="1919" height="865" alt="image" src="https://github.com/user-attachments/assets/96983c91-4d17-4d70-ab4c-2974a6286799" />
 
----
+# PDF UPLOAD
+<img width="1917" height="863" alt="image" src="https://github.com/user-attachments/assets/4e5a847d-8bda-426a-81b6-7b651486ce22" />
+
+# OUTPUT
+<img width="1919" height="867" alt="image" src="https://github.com/user-attachments/assets/1132cae5-c277-4522-b82f-392e7914940d" />
+
 
 ## 🧪 How It Works
 
