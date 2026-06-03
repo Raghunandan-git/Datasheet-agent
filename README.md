@@ -268,6 +268,8 @@ npm run dev
 ## 👨‍💻 Author
 
 **Raghunandan P**
+**Dinesh P**
+**Bharath T**
 Electronics & Communication Engineering
 
 
